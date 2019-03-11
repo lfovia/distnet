@@ -1,0 +1,2 @@
+As we explained in the paper, we have trained the proposed network with and without pre-processing the input image.
+Model without pre-processing is named as model.h5 and model with pre-processing is named as model_mscn.h5
