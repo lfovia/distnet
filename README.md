@@ -25,7 +25,6 @@ If you are using the code/model/data provided here in a publication, please cite
 ## Pretrained model: 
 We provide the [pretrained model](https://github.com/lfovia/distnet/blob/master/models/model.h5) and [example code](https://github.com/lfovia/distnet/blob/master/examples/generate_dist_map.ipynb) for generating distortion map.
 
-
 ## Install prerequisites: 
 Keras: https://keras.io/#installation
 
