@@ -1,5 +1,5 @@
 ## DistNet : Generating Image Distortion Maps Using Convolutional Autoencoders with Application to No Reference Image Quality Assessment
-You can find full access to our [paper.](https://ieeexplore.ieee.org/abstract/document/8521680) here. In this post, we provides the trained models and example code for generating image distortion map from input natural image.
+You can find full access to our [paper](https://ieeexplore.ieee.org/abstract/document/8521680) here. In this post, we provides the trained models and example code for generating image distortion map from input natural image.
 
 -Network architecture of the proposed DistNet as follows 
  <img alt="portfolio_view" src="https://github.com/lfovia/distnet/blob/master/models/network.jpg">
