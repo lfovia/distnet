@@ -4,7 +4,7 @@ You can find full access to our [paper](https://ieeexplore.ieee.org/abstract/doc
 -Network architecture of the proposed DistNet as follows 
  <img alt="portfolio_view" src="https://github.com/lfovia/distnet/blob/master/models/network.jpg">
 
-### Citations : 
+### Citation: 
 If you are using the code/model/data provided here in a publication, please cite our paper:
     
     @ARTICLE{8521680,
